@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "status": "awaiting_verified_refresh",
+  "updated_at": null,
+  "source": {
+    "name": "LoanSifter public benchmark",
+    "as_of": null
+  },
+  "rates": {
+    "conventional_30yr": null,
+    "fha_30yr": null,
+    "va_30yr": null,
+    "homeready_30yr": null,
+    "homepossible_30yr": null
+  },
+  "notes": "Educational benchmark rates only. Not a rate quote, lock, or commitment to lend."
+}
