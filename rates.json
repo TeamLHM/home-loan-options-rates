@@ -1,17 +1,19 @@
 {
   "schema_version": 1,
-  "status": "awaiting_verified_refresh",
-  "updated_at": null,
+  "status": "verified",
+  "updated_at": "2026-10-09T12:00:00.000Z",
   "source": {
-    "name": "LoanSifter public benchmark",
-    "as_of": null
+    "name": "Optimal Blue OBMMI",
+    "as_of": "2026-10-09",
+    "url": "https://www2.optimalblue.com/obmmi/",
+    "data_url": "https://PRD-NC-OBMMI-FrontDoor-endpoint-cddkegaabwhpa6aa.a01.azurefd.net/api/blob/extremes.json"
   },
   "rates": {
-    "conventional_30yr": null,
-    "fha_30yr": null,
-    "va_30yr": null,
+    "conventional_30yr": 7.388,
+    "fha_30yr": 7.177,
+    "va_30yr": 7.129,
     "homeready_30yr": null,
     "homepossible_30yr": null
   },
-  "notes": "Educational benchmark rates only. Not a rate quote, lock, or commitment to lend."
+  "notes": "Educational market benchmarks only. HomeReady and Home Possible have no published benchmarks in this source; the estimator retains its labeled built-in planning assumptions for those programs. Not a rate quote, lock, guarantee, lender-specific pricing, or commitment to lend."
 }
