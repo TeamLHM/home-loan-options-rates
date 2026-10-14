@@ -1,17 +1,17 @@
 {
   "schema_version": 1,
   "status": "verified",
-  "updated_at": "2026-10-09T12:00:00.000Z",
+  "updated_at": "2026-10-13T12:00:00.000Z",
   "source": {
     "name": "Optimal Blue OBMMI",
-    "as_of": "2026-10-09",
+    "as_of": "2026-10-13",
     "url": "https://www2.optimalblue.com/obmmi/",
     "data_url": "https://PRD-NC-OBMMI-FrontDoor-endpoint-cddkegaabwhpa6aa.a01.azurefd.net/api/blob/extremes.json"
   },
   "rates": {
-    "conventional_30yr": 7.388,
-    "fha_30yr": 7.177,
-    "va_30yr": 7.129,
+    "conventional_30yr": 7.361,
+    "fha_30yr": 7.181,
+    "va_30yr": 7.11,
     "homeready_30yr": null,
     "homepossible_30yr": null
   },
